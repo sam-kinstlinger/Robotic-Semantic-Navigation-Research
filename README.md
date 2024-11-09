@@ -12,4 +12,4 @@ Here is the link to the Google Slides presentation my team created to showcase o
 Slides 9 & 10 include videos highlighting some of our work.
 
 Additionally, you can explore more about our research and projects on our website:
-(https://sites.google.com/umd.edu/ai4all-summerresearchpres-2022/navigation?authuser=0)
+[Website Link](https://sites.google.com/umd.edu/ai4all-summerresearchpres-2022/navigation?authuser=0)
