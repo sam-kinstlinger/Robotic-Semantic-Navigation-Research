@@ -1,5 +1,4 @@
 #! /usr/bin/python
-# Copyright (c) 2015, Rethink Robotics, Inc.
 
 # Using this CvBridge Tutorial for converting
 # ROS images to OpenCV2 images
