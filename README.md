@@ -1,5 +1,5 @@
 ## Overview
-This repository contains the resources and scripts developed for the Robotic Semantic Navigation (RSN) project. The project involves downloading, processing, and analyzing visual data using YOLOv5 for object detection. It also includes supplementary materials showcasing the project's outcomes.
+This repository contains some resources and scripts developed for the Robotic Semantic Navigation (RSN) project. The project involves downloading, processing, and analyzing visual data using YOLOv5 for object detection. It also includes supplementary materials showcasing the project's outcomes.
 
 ### Files and Scripts
 #### RSN_Colab.ipynb
